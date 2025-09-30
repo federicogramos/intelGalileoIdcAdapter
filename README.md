@@ -2,7 +2,7 @@
 
 En proceso.. no terminado...
 
-Accessory primarely fitted for https://github.com/federicogramos/disp7segTester but so generic it will fit any other project.
+Accessory primarily fitted for https://github.com/federicogramos/disp7segTester but so generic it will fit any other project.
 
 # View
 
