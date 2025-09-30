@@ -2,6 +2,8 @@
 
 En proceso.. no terminado...
 
+Accessory primarely fitted for https://github.com/federicogramos/disp7segTester but so generic it will fit any other project.
+
 # View
 
 Opens with Altium Designer 10.589.22577
