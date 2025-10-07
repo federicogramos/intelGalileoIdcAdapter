@@ -8,6 +8,13 @@ Accessory primarily fitted for https://github.com/federicogramos/disp7segTester 
 
 Opens with Altium Designer 10.589.22577
 
+
+Diseño en Altium.
+![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/sch.jpg)
+
+Render.
+![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/cad.jpg)
+
 Also, view it online in Altium 360:
 
 https://www.altium.com/viewer/
