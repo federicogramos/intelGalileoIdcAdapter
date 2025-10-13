@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 'F:\\fgr\\16gb\\0000 interior\\intelGalileoIdcAdapter\\otherFiles\\bat
 _pp_2032_x1_horiz\\bat_pp_2032_x1_horiz.stp',
-/* time_stamp */ '2025-10-04T06:50:46-03:00',
+/* time_stamp */ '2025-10-13T01:53:25-03:00',
 /* author */ ('Federico'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -3286,6 +3286,6 @@ SOLID_ANGLE_UNIT()
 #3206=SURFACE_STYLE_FILL_AREA(#3207);
 #3207=FILL_AREA_STYLE('',(#3208));
 #3208=FILL_AREA_STYLE_COLOUR('',#3209);
-#3209=COLOUR_RGB('',0.749019607843137,0.749019607843137,0.749019607843137);
+#3209=COLOUR_RGB('',0.207843137254902,0.207843137254902,0.207843137254902);
 ENDSEC;
 END-ISO-10303-21;
