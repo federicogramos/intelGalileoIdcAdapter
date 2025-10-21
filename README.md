@@ -23,7 +23,7 @@ Also, view it online in Altium 360:
 
 https://www.altium.com/viewer/
 
-Uploading the raw link to git schematics, paste these links in Altium Viewer:
+Paste these links in Altium Viewer:
 
 ```
 https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/intelGalileoIdcAdapter.SchDoc
