@@ -16,7 +16,10 @@ Render.
 ![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/cad.jpg)
 
 Prototype.
-![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/prototype.jpg)
+![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/prototype_0000.jpg)
+
+Prototype mounted on Intel Galileo board.
+![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/prototype_0001.jpg)
 
 Also, view it online in Altium 360:
 
