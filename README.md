@@ -15,6 +15,9 @@ Diseño en Altium.
 Render.
 ![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/cad.jpg)
 
+Prototype.
+![alt text](https://raw.githubusercontent.com/federicogramos/intelGalileoIdcAdapter/main/otherFiles/prototype.jpg)
+
 Also, view it online in Altium 360:
 
 https://www.altium.com/viewer/
